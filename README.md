@@ -24,14 +24,12 @@
         </head>
         <body>
             <h1>Vormon</h1>
-            <script src="./index.js"></script>
             • este é um curso de artes para iniciantes e intermediários.
                você irá aprender técnicas de artes,acupuntura chinesa e anatomia.
             • primeiro vamos estudar a acupuntura com uma imagem que está logo abaixo
-              lembre-se de anotar e praticar partes a mais do curso se você estiver com alguma      dificuldade, siga as instruções para um melhor desempenho,e pratique arte/desenho quando puder.
-
+              lembre-se de anotar e praticar partes do ebook, se você estiver com alguma dificuldade siga as instruções para um melhor desempenho,e pratique arte/desenho quando puder.
             -Ordem cronológica do curso:acupuntura, anatomia, técnicas de arte,arte em prática,"tabela",e as cores como elas funcionam. 
-<p>aviso:o curso durará 5 dias (mínimo) com a duração de 61 dias (máximo),ao final receberá o relatório de atividades e o certificado do curso,A seguir damos início ao curso.
+<p>aviso:o curso durará 5 dias (mínimo) com a duração de 61 dias (máximo),ao final receberá o relatório de atividades e o certificado do curso, A seguir damos início ao curso.
                
 
 
@@ -39,6 +37,8 @@
                 
 </div>
 </body>
+
+ 
  1.Rosto
 -Você irá aprender técnicas de rascunhos, treine desenhando ex: pessoas, personagens HQ.
 Veja o desenho abaixo:
